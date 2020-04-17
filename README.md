@@ -1,6 +1,3 @@
-
-##Overview of my projects
-
 ### Dockerised Raspberry setup
 A two container setup with shared volumes for peer-to-peer download and http file 
 share. I started with docker compose, but it wasn't very reliable an arm. Completed
