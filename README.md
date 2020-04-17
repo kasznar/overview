@@ -11,8 +11,7 @@ technology: docker, docker-compose, bash, linux,  nginx, transmission
 
 ### Cordova and Angular integration POC
 This is an experiment on wrapping an existing angular application in cordova to 
-enable push notifications with Google Firebase.  
-// and providing a decent loading experience
+enable push notifications with Google Firebase.
 
 repository: [/cordova-angular](https://github.com/kasznar/cordova-angular)  
 technology: cordova, angular, firebase, ios, android
